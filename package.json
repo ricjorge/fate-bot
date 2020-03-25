@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.4.2",
-    "axios": "^0.13.1",
+    "axios": "^0.19.2",
     "bluebird": "^3.4.1",
     "chance": "^1.0.3",
     "classnames": "^2.2.5",
